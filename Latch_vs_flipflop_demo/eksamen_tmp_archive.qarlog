@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	C:/Quartus/ELE111_2024/Eksamen/oppgave1/eksamen_tmp_archive.qarlog
+
+Archive:	C:/Quartus/ELE111_2024/Eksamen/oppgave1/eksamen_tmp_archive.qar
+Date:		Mon Dec  2 22:17:44 2024
+Quartus Prime		23.1std.1 Build 993 05/14/2024 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Quartus/ELE111_2024/Eksamen/oppgave1/ROM_7_seg.vhd
+C:/Quartus/ELE111_2024/Eksamen/oppgave1/eksamen.qpf
+C:/Quartus/ELE111_2024/Eksamen/oppgave1/eksamen.qsf
+C:/Quartus/ELE111_2024/Eksamen/oppgave1/eksamen_top.vhd
+c:/intelfpga_lite/23.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Mon Dec  2 22:17:45 2024
+Source archive file:	C:/Quartus/ELE111_2024/Eksamen/oppgave1/eksamen_tmp_archive.qar
+Archive was extracted into	C:/Quartus/ELE111_2024/Eksamen/oppgave4/
+		 - successfully.
