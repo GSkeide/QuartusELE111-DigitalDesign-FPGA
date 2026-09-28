@@ -1,1 +1,0 @@
-asynkron reset
