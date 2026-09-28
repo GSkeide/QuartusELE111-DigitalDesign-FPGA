@@ -1,0 +1,1 @@
+asynkron reset
